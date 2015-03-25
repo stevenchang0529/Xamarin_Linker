@@ -1,0 +1,7 @@
+﻿
+<linker>
+<assembly fullname="Xamarin.iOS">
+  <type fullname="UIKit.UILabel">
+  </type>
+</assembly>
+</linker>

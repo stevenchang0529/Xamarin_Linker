@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="Mono.Android">
+    <type fullname="Android.Widget.TextView" ></type>
+  </assembly>
+</linker>
