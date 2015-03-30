@@ -1,4 +1,4 @@
-* [Xamarin_Linker](#xamarin_lnker)
+* [關於Linker設定](#xamarin_lnker)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
